@@ -8,7 +8,7 @@ Simple exercise to demonstrate running job in worker node-
 
 1. Create a worker node as per document in this repo.
 
-2. Build a job to run in slave node 
+2. Build a job to run in slave node, 
 
 3. Run the job and view the console output.
 
